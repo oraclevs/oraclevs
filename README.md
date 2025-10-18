@@ -1,76 +1,114 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
+<h1 align="center">Hi 👋, I'm Denton Mike</h1>
+<h3 align="center">A Passionate Developer & Designer at Hatship</h3>
 
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dentonmike&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> 
+  <a href="https://github.com/yourusername?tab=followers"><img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-</div>
+---
 
-###
+### 🧠 About Me
+- 🔭 I’m currently working on **GNOME Wallpaper Engine**
+- 🌱 I’m exploring **Linux customization, system automation, and Flutter development**
+- 🧩 My brand: **Novarix**
+- 🎨 I love combining design and code to create meaningful tools.
+- ⚡ Fun fact: I can debug faster with good music 🎧
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=oraclevs.oraclevs&"  />
-</div>
+---
 
-###
+### 🚀 Tech Stack
 
-<h1 align="center">Hey there 👋</h1>
+#### 🖥️ Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-###
+#### ⚙️ Tools & Frameworks
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GNOME](https://img.shields.io/badge/GNOME-4A86CF?style=for-the-badge&logo=gnome&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
-<h3 align="left">👩‍💻  About Me</h3>
+---
 
-###
+### 📈 GitHub Stats
 
-<p align="left">I'm  Charles from  Nigeria<br><br>- 🔭 I’m working as Full Stack web developer.<br>- 📚 I'm currently learning  Mobile App Development  FLUTTER.<br>- ⚡ In my free time I read books.</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="streak"/>
+</p>
 
-###
+---
 
-<h3 align="left">🛠 Language and tools</h3>
+<p align="center"> <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> </p>
 
-###
+### 🧩 Featured Project
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" height="40" alt="less logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-</div>
+**🎨 [GNOME Wallpaper Engine](https://github.com/yourusername/gnomeWallPaperEngine)**  
+*A Python package and CLI to manage GNOME wallpapers from your terminal.*
 
-###
+```bash
+pip install occ_wallPaper
+occ_wallPaper -R
+```
+<p align="center"> <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> </p>
 
-<h3 align="left">🔥   My Stats :</h3>
+---
 
-###
+## 🌈 3. Add Visual Flair
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=oraclevs&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+Here are **modern design tricks** you can use:
 
-###
+| Style | Description | Example |
+|--------|--------------|----------|
+| **Shields.io badges** | Add badges for tools, stats, languages | `![Python](...)` |
+| **GitHub Readme Stats** | Show your stats dynamically | [`github-readme-stats`](https://github.com/anuraghazra/github-readme-stats) |
+| **Animated headers** | Use gradient text or emojis | `Hi 👋 I'm Denton` |
+| **3D contribution graph** | [`github-profile-3d-contrib`](https://github.com/yoshi389111/github-profile-3d-contrib) |
+| **GIFs or images** | Add subtle animation (like coding or typing GIFs) | `<img src="..." width="400">` |
+| **Pinned project section** | Highlight your top repo(s) | Add custom showcase markdown |
 
-<h3 align="left">☎️  Contact Me  with =></h3>
+---
 
-###
+## 🧰 4. Keep It Dynamic
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-</div>
+To make it **auto-updating**, use GitHub Actions.  
+Examples:
+- Update GitHub stats daily.
+- Show your latest blog posts or YouTube videos.
+- Refresh commit streaks automatically.
 
-###
+Use:
+- [`github-readme-activity-graph`](https://github.com/Ashutosh00710/github-readme-activity-graph)
+- [`readme-scribe`](https://github.com/muesli/readme-scribe)
+
+---
+
+## ✨ 5. Add Personality
+
+Don’t make it look like every other developer’s page.
+You can:
+- Add a short story about your developer journey.
+- Mention your favorite tech philosophies.
+- Include a quote, motto, or ASCII divider.
+- Reflect your **Hatship** work: show innovation and joy in code.
+
+---
+
+## 🔥 6. Example of a Minimal Elegant Version
+
+If you like a cleaner style:
+
+
+# Hi, I'm Denton 👋  
+**Developer • Designer • Creator of GNOME Wallpaper Engine**
+
+> “Code should feel alive — like wallpaper that changes with time.”
+
+🧠 Currently building: GNOME Wallpaper Engine  
+💻 Tech: Python • Flutter • Docker • GNOME • Linux  
+🎨 Passion: Beautiful, functional software  
+
+📫 Reach me: denton@example.com  
+🌐 [LinkedIn](https://linkedin.com/in/dentonmike)
