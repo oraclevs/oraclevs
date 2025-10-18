@@ -1,114 +1,90 @@
-<h1 align="center">Hi 👋, I'm Denton Mike</h1>
-<h3 align="center">A Passionate Developer & Designer at Hatship</h3>
+<h1 align="center">👋 Hey there, I'm O.C.C</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dentonmike&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> 
-  <a href="https://github.com/yourusername?tab=followers"><img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub Badge"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=Flutter+Developer;Backend+Engineer;Linux+Enthusiast;System+Programmer;Lifelong+Learner+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧠 About Me
-- 🔭 I’m currently working on **GNOME Wallpaper Engine**
-- 🌱 I’m exploring **Linux customization, system automation, and Flutter development**
-- 🧩 My brand: **Novarix**
-- 🎨 I love combining design and code to create meaningful tools.
-- ⚡ Fun fact: I can debug faster with good music 🎧
+### 🧬 About Me
+
+I'm a **Flutter** and **Backend Developer** passionate about building powerful, elegant, and efficient systems — from mobile apps to backend infrastructures.
+
+> “The reward of hard work isn’t just success — it’s mastery.”
+
+I love creating things that blend **engineering precision** with **aesthetic simplicity**, whether it's a CLI tool, a mobile experience, or an intelligent automation engine.  
+My development environment of choice? **Arch Linux** — because control, flexibility, and customization matter.
 
 ---
 
-### 🚀 Tech Stack
+### ⚙️ Tech Stack
 
-#### 🖥️ Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-#### ⚙️ Tools & Frameworks
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GNOME](https://img.shields.io/badge/GNOME-4A86CF?style=for-the-badge&logo=gnome&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-
----
-
-### 📈 GitHub Stats
+| Language / Tool | Skill Area |
+|------------------|-------------|
+| 🐍 **Python** | Backend scripting & automation |
+| 💙 **Dart / Flutter** | Cross-platform app development |
+| 🐳 **Docker** | Containerized environments |
+| 🧠 **TypeScript / Express.js** | RESTful APIs & web backends |
+| 🍃 **MongoDB** | NoSQL data design |
+| 🧰 **Linux / Arch** | System setup, scripting, and customization |
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="streak"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,typescript,express,mongodb,docker,linux,bash" />
 </p>
 
 ---
 
-<p align="center"> <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> </p>
+### 🧩 Featured Projects
 
-### 🧩 Featured Project
+🛰️ **Robust Chat Application**  
+> Built with Flutter + Express.js + MongoDB — a real-time messaging experience featuring authentication, chat rooms, and multimedia sharing.
 
-**🎨 [GNOME Wallpaper Engine](https://github.com/yourusername/gnomeWallPaperEngine)**  
-*A Python package and CLI to manage GNOME wallpapers from your terminal.*
+💳 **Rebourt E-commerce Backend**  
+> Scalable backend for an e-commerce platform with integrated payment systems and RESTful APIs.
 
-```bash
-pip install occ_wallPaper
-occ_wallPaper -R
-```
-<p align="center"> <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> </p>
+🖼️ **GNOME Wallpaper Engine**  
+> A CLI-based wallpaper slideshow daemon written in Python — seamlessly cycles GNOME backgrounds like a true desktop companion.
 
----
-
-## 🌈 3. Add Visual Flair
-
-Here are **modern design tricks** you can use:
-
-| Style | Description | Example |
-|--------|--------------|----------|
-| **Shields.io badges** | Add badges for tools, stats, languages | `![Python](...)` |
-| **GitHub Readme Stats** | Show your stats dynamically | [`github-readme-stats`](https://github.com/anuraghazra/github-readme-stats) |
-| **Animated headers** | Use gradient text or emojis | `Hi 👋 I'm Denton` |
-| **3D contribution graph** | [`github-profile-3d-contrib`](https://github.com/yoshi389111/github-profile-3d-contrib) |
-| **GIFs or images** | Add subtle animation (like coding or typing GIFs) | `<img src="..." width="400">` |
-| **Pinned project section** | Highlight your top repo(s) | Add custom showcase markdown |
+🧱 **OCC_Arch CLI**  
+> A flexible project template generator for multiple architectures — create full app scaffolds with a single command.
 
 ---
 
-## 🧰 4. Keep It Dynamic
+### 🧑‍💻 System Programming & Beyond
 
-To make it **auto-updating**, use GitHub Actions.  
-Examples:
-- Update GitHub stats daily.
-- Show your latest blog posts or YouTube videos.
-- Refresh commit streaks automatically.
-
-Use:
-- [`github-readme-activity-graph`](https://github.com/Ashutosh00710/github-readme-activity-graph)
-- [`readme-scribe`](https://github.com/muesli/readme-scribe)
+My curiosity extends into **system programming**, understanding how layers of abstraction work together — from OS behavior to compiler internals.  
+I enjoy writing tools that automate repetitive tasks and push the limits of what can be done on Linux.
 
 ---
 
-## ✨ 5. Add Personality
+### 📊 Top Languages
 
-Don’t make it look like every other developer’s page.
-You can:
-- Add a short story about your developer journey.
-- Mention your favorite tech philosophies.
-- Include a quote, motto, or ASCII divider.
-- Reflect your **Hatship** work: show innovation and joy in code.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oraclevs&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 🔥 6. Example of a Minimal Elegant Version
+### 🌐 Connect With Me
 
-If you like a cleaner style:
+- 📫 **Email:** [placeholder@email.com](mailto:placeholder@email.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/placeholder](https://linkedin.com/in/placeholder)  
+- 🐦 **Twitter/X:** [@placeholder](https://twitter.com/placeholder)  
+- 🌍 **Portfolio:** [placeholder.dev](https://placeholder.dev)
 
+---
 
-# Hi, I'm Denton 👋  
-**Developer • Designer • Creator of GNOME Wallpaper Engine**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=oraclevs&theme=onedark&no-bg=true&margin-w=15" />
+</p>
 
-> “Code should feel alive — like wallpaper that changes with time.”
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=oraclevs&color=00FF99&style=flat-square" alt="Profile views"/>
+</p>
 
-🧠 Currently building: GNOME Wallpaper Engine  
-💻 Tech: Python • Flutter • Docker • GNOME • Linux  
-🎨 Passion: Beautiful, functional software  
+---
 
-📫 Reach me: denton@example.com  
-🌐 [LinkedIn](https://linkedin.com/in/dentonmike)
+<p align="center">
+  <strong>“Hack. Build. Refine. Repeat.”</strong>
+</p>
+
